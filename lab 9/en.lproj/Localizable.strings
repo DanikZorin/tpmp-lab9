@@ -1,0 +1,71 @@
+
+"Ошибка" = "Error";
+"Внимание" = "Warning";
+"Заполните все поля" = "Please fill in all fields";
+"Пожалуйста, заполните все поля" = "Please fill in all fields";
+"Пароли не совпадают" = "Passwords do not match";
+"Неверный логин или пароль" = "Invalid login or password";
+"Критическая ошибка: База данных Core Data не загружена!" = "Critical error: Core Data database not loaded!";
+"Пользователь с таким телефоном уже зарегистрирован" = "A user with this phone number is already registered";
+"Не удалось сохранить данные: %@" = "Failed to save data: %@";
+"Ошибка базы данных: %@" = "Database error: %@";
+"Назад"="Back";
+
+"Телефон/email" = "Phone/email";
+"Пароль" = "Password";
+"Повторите пароль" = "Repeat password";
+"Телефон" = "Phone";
+"Почта" = "Email";
+"ФИО" = "Full Name";
+"Дата рождения" = "Date of Birth";
+
+
+"Войти" = "Sign In";
+"Вход" = "Sign In";
+"Зарегистрироваться" = "Sign Up";
+"Регистрация" = "Registration";
+
+/* --- Экран списка клиник --- */
+"Поликлиники" = "Clinics";
+"Список клиник пуст" = "The clinic list is empty";
+"Загрузить данные" = "Load Data";
+"Ошибка сохранения: %@" = "Saving error: %@";
+
+/* --- Экран списка врачей --- */
+"Врачи поликлиники №%lld" = "Doctors of clinic No.%lld";
+"В данной клинике нет свободных специалистов" = "There are no available specialists in this clinic";
+"Неизвестный специалист" = "Unknown specialist";
+"Общий профиль" = "General profile";
+"Личный ID: %lld" = "Personal ID: %lld";
+
+/* --- Экран меню врача и записи --- */
+"Неизвестный врач" = "Unknown doctor";
+"Специалист" = "Specialist";
+"Личный код сотрудника: %lld" = "Personal employee code: %lld";
+"1. Выберите дату приема" = "1. Select appointment date";
+"2. Выберите доступное время" = "1. Select available time";
+
+"Подтвердить запись" = "Confirm booking";
+"Сохранить перенос" = "Save reschedule";
+"Запись на прием" = "Appointment Booking";
+"Перенос приема" = "Reschedule Appointment";
+"Успешно" = "Success";
+"Отлично" = "Great";
+"Запись успешно перенесена!" = "Appointment successfully rescheduled!";
+"Вы успешно записаны!" = "You have successfully booked an appointment!";
+
+"Запись" = "Appointment";
+"Мои талоны" = "My tickets";
+"Профиль" = "Profile";
+"Язык"="Language";
+"Выйти из системы" = "Log out";
+"Отменить эту запись" = "Cancel the appointment";
+"Перенести запись" = "Move appointment";
+"Врачей в клинике: %lld" = "Doctors in the clinic: %lld";
+"Поликлиника №%lld" = "Clinic №%lld";
+
+
+"Поликлиники" = "Clinics";
+"Мои записи" = "My Appointments";
+"Вход" = "Sign In";
+
